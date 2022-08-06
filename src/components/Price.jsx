@@ -6,7 +6,7 @@ const Container=styled.div`
 align-item:flex-start; 
 display:flex;
 height:10%;
-background-color:yellow; 
+background-color:white; 
 padding-left:20px;
 padding-top:20px;
 
@@ -21,7 +21,7 @@ height:90%;
 display:flex;
 justify-content:center;
 align-items:center;
-background-color:yellow; 
+background-color:white; 
 
 @media only screen and (max-width:768px){
     flex-direction:column;

@@ -6,7 +6,7 @@ import { Button }  from "react-bootstrap";
 
 const Container=styled.div`
  height:90%;
- background:navy;
+ background:white;
 `;
 
 const myButtonStyle5 = {

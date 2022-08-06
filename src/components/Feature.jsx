@@ -7,7 +7,7 @@ const Container=styled.div`
    padding:0px 20px 0 20px; 
   display:flex;
   height:;
-  background:pink;
+  background:white;
   min-height:100vh;
 
 

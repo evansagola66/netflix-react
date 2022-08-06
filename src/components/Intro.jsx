@@ -9,7 +9,7 @@ import Woman from '../images/cute.svg';
  const Container=styled.div`
      height:calc(100vh - 60px);
      display:flex;
-     background:cyan;
+     background:white;
      padding:0 20px;
            
      @media only screen and (max-width:768px){

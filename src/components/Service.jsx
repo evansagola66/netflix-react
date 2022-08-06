@@ -10,7 +10,7 @@ import Play from '../images/play.png';
 const Container=styled.div`
  display:flex;
  min-height:100vh;
- background:violet;
+ background:white;
  padding:0px 20px 0px 20px; 
  @media only screen and (max-width:620px){
      
