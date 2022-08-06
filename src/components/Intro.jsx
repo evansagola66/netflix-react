@@ -162,7 +162,7 @@ const Intro = () => {
         
         <Left> 
             <Title>Adventures in creative age</Title>
-        <Desc>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ratione non voluptatum dolorem cumque commodi vel moloiu numquam rerum voluptate!</Desc> 
+        <Desc>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro ratione non voluptatum dolorem cumque commodi vel moloiu numquam reruioum voluptate!</Desc> 
 
         <Info>
         <Button style={ myButtonStyle}>Start a Project</Button>
